@@ -1,6 +1,8 @@
 # BE-H2-Hypatia
 **Hydrogen network infrastructure model for Belgium**
 
+[![DOI](https://zenodo.org/badge/754676270.svg)](https://zenodo.org/doi/10.5281/zenodo.10636755)
+
 This repository contains the dataset for Belgium's long-term hydrogen infrastructure cost optimization model, focusing on the decarbonization of energy-intensive industries.
 
 ## At a glance
